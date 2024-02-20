@@ -28,5 +28,5 @@ Admin
 user: admin
 pass: admin123
 
-****** https://www.campcodes.com ******
+****** JANUH PHP CODER ******
 Subcribe to our Youtube Channel **** SerBermz ****
